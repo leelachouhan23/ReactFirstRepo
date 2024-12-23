@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # MoodTarckerApp
 >>>>>>> aa132c451422e26f1e77752c7f2e6dc917b8a1fa
+=======
+# my-react-app
+>>>>>>> e7f86f40972037eb9b7e9560511cf56294abf06d
